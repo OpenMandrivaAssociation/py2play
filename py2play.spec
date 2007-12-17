@@ -13,7 +13,6 @@ Group:          Development/Python
 Summary:        A peer-to-peer network game engine
 BuildRequires:  python-devel
 BuildArch:      noarch
-BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 A Peer To Peer network game engine.
