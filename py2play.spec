@@ -1,7 +1,7 @@
 %define name    py2play
 %define oname   Py2Play
 %define version 0.1.9
-%define release %mkrel 4
+%define release %mkrel 5
 
 Name:           %{name}
 Version:        %{version}
