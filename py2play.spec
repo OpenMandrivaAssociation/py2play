@@ -38,3 +38,37 @@ A Peer To Peer network game engine.
 /usr/lib/python2*/site-packages/*.egg-info
 
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0.1.9-6mdv2010.0
++ Revision: 441969
+- rebuild
+
+* Tue Jan 06 2009 Funda Wang <fwang@mandriva.org> 0.1.9-5mdv2009.1
++ Revision: 325848
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 0.1.9-4mdv2009.0
++ Revision: 259385
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0.1.9-3mdv2009.0
++ Revision: 247250
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0.1.9-1mdv2008.1
++ Revision: 136445
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Sun Dec 03 2006 Emmanuel Andry <eandry@mandriva.org> 0.1.9-1mdv2007.0
++ Revision: 90197
+- New version 0.1.9
+  fix x86_64 build
+  %%mkrel
+- Import py2play
+
