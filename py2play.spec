@@ -2,7 +2,7 @@
 
 Name:           py2play
 Version:        0.1.10
-Release:        1
+Release:        2
 License:        GPL
 Url:            http://oomadness.tuxfamily.org/en/py2play
 Source0:        %{oname}-%{version}.tar.gz
