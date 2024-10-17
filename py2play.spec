@@ -4,7 +4,7 @@ Name:           py2play
 Version:        0.1.10
 Release:        2
 License:        GPL
-Url:            http://oomadness.tuxfamily.org/en/py2play
+Url:            https://oomadness.tuxfamily.org/en/py2play
 Source0:        %{oname}-%{version}.tar.gz
 Group:          Development/Python
 Summary:        A peer-to-peer network game engine
